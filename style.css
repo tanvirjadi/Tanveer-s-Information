@@ -1,0 +1,44 @@
+* {
+    background-color: antiquewhite;
+}
+
+img {
+    height: 150px;
+}
+
+h1 {
+    color: darkcyan;
+    background-color: aliceblue;
+}
+
+h2 {
+    color: blueviolet;
+    background-color: burlywood;
+}
+
+p {
+    font-weight: bolder;
+    background-color: aquamarine;
+}
+
+li {
+    color: black;
+    background-color: chartreuse;
+}
+
+a {
+
+    background-color: chartreuse;
+}
+
+ul {
+    background-color: chartreuse;
+}
+
+footer {
+    background-color: cadetblue;
+    color: gold;
+    text-align: center;
+    font-size: xx-large;
+}
+
